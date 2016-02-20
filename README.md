@@ -1,4 +1,4 @@
-# Jupyter Notebook
+﻿# Jupyter Notebook
 
 [![Google Group](https://img.shields.io/badge/-Google%20Group-lightgrey.svg)](https://groups.google.com/forum/#!forum/jupyter)
 [![Build Status](https://travis-ci.org/jupyter/notebook.svg?branch=master)](https://travis-ci.org/jupyter/notebook)
@@ -8,6 +8,8 @@ The Jupyter notebook is a web-based notebook environment for interactive
 computing.
 
 ![Jupyter notebook example](docs/resources/running_code_med.png "Jupyter notebook example")
+
+I hope you can see this Raichou. Stop evolving.
 
 ### Jupyter notebook, the language-agnostic evolution of IPython notebook
 Jupyter notebook is the language-agnostic HTML notebook application for
