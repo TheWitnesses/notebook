@@ -28,6 +28,12 @@ following steps are used when making a Notebook release.
      .. code:: bash
 
          sudo apt-get install nodejs-legacy npm
+	 	
+      On OS X, you can use brew
+      
+      .. code:: bash
+
+         brew install node
 
 #. Install the notebook:
 
